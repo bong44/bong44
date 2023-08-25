@@ -15,7 +15,7 @@
 
 ---
 
-|Course|Start Date|End Date|
+|History|Start Date|End Date|
 |:---|---:|---:|
 |Dongguk University Duica 🏫 (Computer Engineering)|2015. 03|2017. 02|
 |Serve in the military 💂‍♂️|2018. 07|2020. 03|
