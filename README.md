@@ -104,7 +104,7 @@
 
 - **Build Tools:**
   
-    <img src="https://img.shields.io/badge/apachemaven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"><img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
+    <img src="https://img.shields.io/badge/apache maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"><img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
 - **Other Tools:**
     - Exbuilder6 (UI tool from korea)
 
