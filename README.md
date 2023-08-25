@@ -110,7 +110,7 @@
     - Gradle (Java)
     - Webpack (JavaScript)
 - **Other Tools:**
-    - Exbuilder6 (specific technology/tool not mentioned in the original text)
+    - Exbuilder6 (UI tool from korea)
 
 ## Overview
 
