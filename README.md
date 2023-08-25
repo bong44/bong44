@@ -7,7 +7,7 @@
   ### **As a full-stack DevOps engineer, I can:**
 
 - **Full Stack Web Development with Spring Framework**
-- **Cloud-Based Microservices Architecture (MSA) Design and Implementation (On-premise)**
+- **Cloud-Based Microservices Architecture (MSA) Design and Implementation (also can On-premise)**
 - **Fully Automated CI/CD Pipeline Implementation**
 - **DevOps Environment Setup and Management**
 - **Collaboration and Team Project Execution**
