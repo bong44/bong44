@@ -1,7 +1,22 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=bong44%20GitHub%20Repo&descAlignY=51&descAlign=62)
 
+ <div align="center">
+   <h1>🙋‍♂️ Introduction</h1>
+ </div>
+ 
+  ### **As a full-stack DevOps engineer, I can:**
 
- ## 🦅 Skills
+- **Full Stack Web Development with Spring Framework**
+- **Cloud-Based Microservices Architecture (MSA) Design and Implementation**
+- **Fully Automated CI/CD Pipeline Implementation**
+- **DevOps Environment Setup and Management**
+- **Collaboration and Team Project Execution**
+
+  
+ <div align="center">
+   <h2>🛠 Skills</h2>
+ </div>
+
   ## ****Platforms & Languages:****
 
 **Operating Systems:**
