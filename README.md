@@ -54,17 +54,13 @@
 
 **Web Frameworks:**
 
-- Node.js
-- Express.js
-- FastAPI
-- Spring eGov
-- Spring Boot
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"><img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white"><img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"><img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><img src="https://img.shields.io/badge/springboot-13C100?style=for-the-badge&logo=springboot&logoColor=white">
 
 ## ****Cloud & DevOps Tools:****
 
 **Cloud Services:**
 
-- Amazon Web Services (AWS)
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 
 **CI/CD Tools:**
 
@@ -81,7 +77,7 @@
 
 **Configuration Management:**
 
-- Ansible
+<img src="https://img.shields.io/badge/ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white">
 
 ## ****Version Control & Collaboration:****
 
@@ -90,29 +86,25 @@
 
 **Collaboration & Communication:**
 
-- Slack
-- Jira
+<img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"><img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
 
 ## ****Web & Application Servers:****
 
 **Web Servers:**
 
-- Nginx
-- Apache Tomcat
-- Apache HTTP Server (Apache)
+<img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"><img src="https://img.shields.io/badge/apache-D22128?style=for-the-badge&logo=apache&logoColor=white"><img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 
 ## ****Hardware & IoT:****
 
 **IoT Platforms:**
 
-- Espressif
-- Raspberry Pi
+<img src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white"><img src="https://img.shields.io/badge/raspberry pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
 
 ## ****Miscellaneous:****
 
 - **Build Tools:**
-    - Maven (Java)
-    - Gradle (Java)
+  
+    <img src="https://img.shields.io/badge/apachemaven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"><img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
 - **Other Tools:**
     - Exbuilder6 (UI tool from korea)
 
