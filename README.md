@@ -107,7 +107,6 @@
 - **Build Tools:**
     - Maven (Java)
     - Gradle (Java)
-    - Webpack (JavaScript)
 - **Other Tools:**
     - Exbuilder6 (UI tool from korea)
 
