@@ -30,7 +30,6 @@
 - JavaScript
 - Python
 - Java
-- C
 - Shell Scripting
 
 ## ****Databases:****
