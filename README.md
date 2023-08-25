@@ -34,28 +34,21 @@
 
 **Operating Systems:**
 
-- Linux
-- Ubuntu
-- CentOS
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"><img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=CentOS&logoColor=white">
 
 **Programming Languages:**
 
-- JavaScript
-- Python
-- Java
-- Shell Scripting
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/Java-FC390E?style=for-the-badge&logo=eclipseide&logoColor=white"><img src="https://img.shields.io/badge/Shell Scripting-FFD500?style=for-the-badge&logo=shell&logoColor=white">
 
 ## ****Databases:****
 
 **SQL Databases:**
 
-- oracle
-- MySQL
-- MariaDB
+<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white">
 
 **NoSQL Databases:**
 
-- MongoDB
+<img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 
 ## ****Frameworks & Libraries:****
 
