@@ -18,7 +18,7 @@
 |Course|Start Date|End Date|
 |:---|---:|---:|
 |Dongguk University Duica 🏫 (Computer Engineering)|2015. 03|2017. 02|
-|Serve in the military 💂‍♂️|2018.07|2020.03|
+|Serve in the military 💂‍♂️|2018. 07|2020. 03|
 |JAVA web application software engineer training course using machine learning 📚 (at NEXT IT)|2020. 05|2020. 10|
 |Hanbat National University 🏫 (Computer Engineering)|2021. 02|2023. 02|
 |Practice-oriented cloud developer training course 📚 (at KOSTA)|2023. 04|2023. 06|
