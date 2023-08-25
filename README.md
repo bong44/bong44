@@ -12,7 +12,19 @@
 - **DevOps Environment Setup and Management**
 - **Collaboration and Team Project Execution**
 
-  
+
+---
+
+|Course|Start Date|End Date|
+|:---|---:|---:|
+|Dongguk University Duica (Computer Engineering)|||
+|Hanbat National University (Computer Engineering)|||
+|JAVA web application software engineer training course using machine learning (at NEXT IT)|||
+|Practice-oriented cloud developer training course (at KOSTA)|||
+|[Metanet Digital Co., Ltd.] 2023 Metanet new training intern recruitment|||
+
+---
+
  <div align="center">
    <h2>🛠 Skills</h2>
  </div>
