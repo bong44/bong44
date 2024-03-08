@@ -22,8 +22,8 @@
 |JAVA web application software engineer training course using machine learning 📚 (at [**NEXT IT**](http://www.nextit.or.kr/))|2020. 05|2020. 10|
 |Hanbat National University 🏫 (Computer Engineering)|2021. 02|2023. 02|
 |Practice-oriented cloud developer training course 📚 (at [**KOSTA**](https://www.kosta.or.kr/))|2023. 04|2023. 06|
-|2023 Metanet Digital internship program 🏢 |2023. 06|2023. 08|
-|Working at [**metanet digital Co.,Ltd.**](https://metanetglobal.com/) 🏢 |2023. 08| ~ now |
+|2023 Metanet Digital internship program 🏢 |2023. 06|2023. 07|
+|Working at [**metanet digital Co.,Ltd.**](https://metanetglobal.com/) 🏢 |2023. 07| ~ now |
 
 ---
 
