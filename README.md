@@ -11,6 +11,7 @@
 - **Fully Automated CI/CD Pipeline Implementation**
 - **DevOps Environment Setup and Management**
 - **Collaboration and Team Project Execution**
+- **Able to integrate open-source AI into legacy systems and utilize Azure AI**
 
 
 ---
@@ -75,6 +76,12 @@
 - Docker
 - Kubernetes
 - Docker Swarm
+
+****AI Integration & Usage:****
+
+- Experience with utilizing and customizing open-source LLMs (Large Language Models), including OPUS-MT and similar translation models
+- Proven ability to integrate open-source AI with legacy systems
+- Proficient in using Azure OpenAI models for fine-tuning and inference
 
 **Configuration Management:**
 
