@@ -24,7 +24,7 @@
 |Hanbat National University 🏫 (Computer Engineering)|2021. 02|2023. 02|
 |Practice-oriented cloud developer training course 📚 (at [**KOSTA**](https://www.kosta.or.kr/))|2023. 04|2023. 06|
 |2023 Metanet Digital internship program 🏢 |2023. 06|2023. 07|
-|Working at [**metanet digital Co.,Ltd.**](https://metanetglobal.com/) 🏢 |2023. 07| ~ now |
+|Working in the Application Architecture team at [**metanet digital Co.,Ltd.**](https://metanetglobal.com/) 🏢 |2023. 07| ~ now |
 
 ---
 
